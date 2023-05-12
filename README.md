@@ -16,8 +16,8 @@ You can export the data by clicking on the Export Button
 ## Credits
 This project uses the following libraries, plugins, and modules/packages:
 
-ApexCharts [https://apexcharts.com/]
-Bootstrap [https://getbootstrap.com/]
-React [https://reactjs.org/]
-React ApexCharts [https://apexcharts.com/docs/react-charts/]
-React CSV [https://www.npmjs.com/package/react-csv]# Histogram-Word-Freq
+- ApexCharts: https://apexcharts.com/
+- Bootstrap: https://getbootstrap.com/
+- React: https://reactjs.org/
+- React ApexCharts: https://apexcharts.com/docs/react-charts/
+- React CSV: https://www.npmjs.com/package/react-csv
