@@ -1,5 +1,5 @@
 # Histogram
-##Live link https://histogram-freq.netlify.app/
+## Live link https://histogram-freq.netlify.app/
 ## Description
 Histogram is a ReactJS application that generates charts based on data provided. It utilizes ApexCharts and Bootstrap for chart creation and styling, respectively. ReactCSV is used for CSV parsing.
 
