@@ -13,7 +13,7 @@ Install dependencies using npm install
 - Click Submit button
 - You can see the histogram
 - You can export the data by clicking on the Export Button
-## Credits
+## Modules
 This project uses the following libraries, plugins, and modules/packages:
 
 - ApexCharts: https://apexcharts.com/
