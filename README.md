@@ -9,10 +9,10 @@ To install this project on your local machine, follow these steps:
 Clone the repository to your local machine using git clone [https://github.com/abhinetics/Histogram-Word-Freq]
 Install dependencies using npm install
 ## Usage
-Open this Link https://histogram-freq.netlify.app/
-Click Submit button
-You can see the histogram
-You can export the data by clicking on the Export Button
+- Open this Link https://histogram-freq.netlify.app/
+- Click Submit button
+- You can see the histogram
+- You can export the data by clicking on the Export Button
 ## Credits
 This project uses the following libraries, plugins, and modules/packages:
 
