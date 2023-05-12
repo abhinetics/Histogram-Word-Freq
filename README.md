@@ -6,7 +6,7 @@ Histogram is a ReactJS application that generates charts based on data provided.
 ## Installation
 To install this project on your local machine, follow these steps:
 
-Clone the repository to your local machine using git clone [repository URL]
+Clone the repository to your local machine using git clone [https://github.com/abhinetics/Histogram-Word-Freq]
 Install dependencies using npm install
 ## Usage
 Open this Link https://histogram-freq.netlify.app/
