@@ -1,4 +1,5 @@
 # Histogram
+##Live link https://histogram-freq.netlify.app/
 ## Description
 Histogram is a ReactJS application that generates charts based on data provided. It utilizes ApexCharts and Bootstrap for chart creation and styling, respectively. ReactCSV is used for CSV parsing.
 
@@ -8,12 +9,10 @@ To install this project on your local machine, follow these steps:
 Clone the repository to your local machine using git clone [repository URL]
 Install dependencies using npm install
 ## Usage
-Open the project directory in your terminal
-Run the command npm start to start the development server
-In your web browser of choice, go to http://localhost:3000/ to view the application
-Upload a CSV file containing numerical data (optional: specify custom chart title)
-Select a chart type (currently supporting Histogam)
-Click on "Create Chart" to generate the chart
+Open this Link https://histogram-freq.netlify.app/
+Click Submit button
+You can see the histogram
+You can export the data by clicking on the Export Button
 ## Credits
 This project uses the following libraries, plugins, and modules/packages:
 
